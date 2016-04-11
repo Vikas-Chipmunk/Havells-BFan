@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "433D35A285CBB54BBA5C1D1839E7A6FC142D3000",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "433D35A285CBB54BBA5C1D1839E7A6FC142D3000" : 0,
+    "C8D88092CF87B1907B4D86A938FBB882B78E3F46" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "19B370A0-F163-42BF-9848-4AC804E37396",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "433D35A285CBB54BBA5C1D1839E7A6FC142D3000" : "havellssmart\/",
+    "C8D88092CF87B1907B4D86A938FBB882B78E3F46" : "CSRmeshDemo"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CSRmeshDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CSRmeshDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/knompihc\/havellssmart.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "433D35A285CBB54BBA5C1D1839E7A6FC142D3000"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/mobileappsm:7999\/imd\/ios_mesh_demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C8D88092CF87B1907B4D86A938FBB882B78E3F46"
+    }
+  ]
+}
